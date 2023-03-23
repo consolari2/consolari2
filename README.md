@@ -2,7 +2,7 @@
 -ola,meu nome é @consolari2
 -meu email é sophia.consolari@escola.p.gov.br
 -eu estou interessada a programar
--eu estou aprendendo a programar javascript e scratch
+-eu estou aprendendo a programar javascript e html
 
 
 <!---
